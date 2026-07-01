@@ -1,11 +1,8 @@
 # 🏥 Hospital Patient Analytics Dashboard
 
-```{=html}
-<p align="center">
-```
 # 📊 Power BI \| Healthcare Analytics \| Executive Dashboard Portfolio Project
 
-![Banner](Screenshots/Page1_Executive.png)
+
 
 ![Power
 BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -82,15 +79,15 @@ visualizations.
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](Screenshots/Page1_Executive.png)
+![Executive Dashboard](Screenshots/Main_Page_Dashboard.png)
 
 ## 👨‍⚕️ Patient Analytics
 
-![Patient Analytics](Screenshots/Page2_PatientAnalytics.png)
+![Patient Analytics](Screenshots/Patient_Analytics_Page.png)
 
 ## 💰 Billing Analytics
 
-![Billing Analytics](Screenshots/Page3_BillingAnalytics.png)
+![Billing Analytics](Screenshots/Billing_Analytics_Page.png)
 
 ------------------------------------------------------------------------
 
@@ -98,9 +95,9 @@ visualizations.
 
   Dashboard             Preview
   --------------------- ------------------------------------------------
-  Executive Dashboard   [Open](Screenshots/Page1_Executive.png)
-  Patient Analytics     [Open](Screenshots/Page2_PatientAnalytics.png)
-  Billing Analytics     [Open](Screenshots/Page3_BillingAnalytics.png)
+  Executive Dashboard   [Open](Screenshots/Main_Page_Dashboard.png)
+  Patient Analytics     [Open](Screenshots/Patient_Analytics_Page.png)
+  Billing Analytics     [Open](Screenshots/Billing_Analytics_Page.png)
 
 ------------------------------------------------------------------------
 
