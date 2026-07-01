@@ -13,9 +13,6 @@ Query](https://img.shields.io/badge/Power%20Query-ETL-blue?style=for-the-badge)
 Visualization](https://img.shields.io/badge/Data%20Visualization-Interactive-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-```{=html}
-</p>
-```
 
 ------------------------------------------------------------------------
 
@@ -89,15 +86,6 @@ visualizations.
 
 ![Billing Analytics](Screenshots/Billing_Analytics_Page.png)
 
-------------------------------------------------------------------------
-
-# 🎨 Clickable Dashboard Gallery
-
-  Dashboard             Preview
-  --------------------- ------------------------------------------------
-  Executive Dashboard   [Open](Screenshots/Main_Page_Dashboard.png)
-  Patient Analytics     [Open](Screenshots/Patient_Analytics_Page.png)
-  Billing Analytics     [Open](Screenshots/Billing_Analytics_Page.png)
 ------------------------------------------------------------------------
 
 # ✨ Features
